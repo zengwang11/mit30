@@ -1,0 +1,7 @@
+#lao tie zha xin
+import string 
+string.letters 
+'abcdefabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
+import random
+random.choice(string.letters)
+
